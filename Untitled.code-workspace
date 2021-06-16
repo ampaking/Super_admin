@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/windows"
+		}
+	],
+	"settings": {
+		"editor.fontSize": 22,
+		"editor.suggest.maxVisibleSuggestions": 5,
+		"editor.cursorBlinking": "smooth",
+		"editor.cursorSmoothCaretAnimation": true
+	}
+}
