@@ -1,3 +1,0 @@
-
-
-![Preview](/gif.gif)
